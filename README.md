@@ -8,7 +8,7 @@ With expertise in creating user-friendly interfaces, building RESTful APIs, and 
 Let's collaborate to build something extraordinary!.
 
 
-## y🌐 Socials:
+## 🌐 Socials Accounts:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justcallmeguRu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/u_knw_nothing) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashu-aggarwal-75459a154/) 
