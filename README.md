@@ -1,8 +1,14 @@
 # 💫 About Me:
-• A Full-Stack Developer with extensive experience with Angular, Microsoft SQL server, JavaScript, Asp.net as well as developing application codes in MVC, Core, Asp .NET, and Rest Web Services.<br>• Skilled in building software and developing application codes in Angular using languages and technologies of the Microsoft.NET including ASP.NET, Entity Framework and MVC.<br>• Extensive knowledge and exposure in Software Development Lifecycle (SDLC) right from business analysis, documentation (functional specifications,technical design), coding and testing (preparation of test cases along with implementation) to maintenance of proposed applications.<br>• Working knowledge on Azure functions, Signal-R(real-time web functionality to<br>applications) , Blob Storage ,etc.
+I'm your go-to Full Stack Developer, ready to bring your dream product to life in the virtual world. My focus is on crafting sleek web apps for small to large-sized businesses and turning tech dreams into reality. 
+
+Proficient in JavaScript, Angular, React.js, Node.js, SQL Server, C#, and .NET Core, I ensure your online presence stands out.
+
+With expertise in creating user-friendly interfaces, building RESTful APIs, and seamlessly integrating external services, I bring a wealth of skills to the table. My primary role is as a developer, and my passion lies in coding excellence and solution delivery.
+
+Let's collaborate to build something extraordinary!.
 
 
-## 🌐 Socials:
+## y🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justcallmeguRu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/u_knw_nothing) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashu-aggarwal-75459a154/) 
